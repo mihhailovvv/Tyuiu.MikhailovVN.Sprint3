@@ -9,7 +9,7 @@ namespace Tyuiu.MikhailovVN.Sprint3.Task0.V29.Test
         public void TestMethod1()
         {
             DataService ds = new DataService();
-            double value = 0.55;
+            double value = 0.5;
             int startValue = 1;
             int stopValue = 10;
 

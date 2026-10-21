@@ -6,7 +6,7 @@ namespace Tyuiu.MikhailovVN.Sprint3.Task0.V29.Lib
     {
         public double GetSumSeries(double value, int startValue, int stopValue)
         {
-            double sum = 05;
+            double sum = 0;
             int i;
             for (i = startValue; i <= stopValue; i++)
             {
