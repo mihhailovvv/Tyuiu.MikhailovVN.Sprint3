@@ -11,7 +11,7 @@ namespace Tyuiu.MikhailovVN.Sprint3.Task1.V5
             Console.Title = "Спринт #3 | Выполнил: Михайлов В. Н. | Вариант #5";
 
             Console.WriteLine("***************************************************************************");
-            Console.WriteLine("* Спринт: #3                                                               *");
+            Console.WriteLine("* Спринт: #3                                                              *");
             Console.WriteLine("* Тема: Оператор цикла while                                              *");
             Console.WriteLine("* Задание #1                                                              *");
             Console.WriteLine("* Вариант #5                                                              *");
